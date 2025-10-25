@@ -27,13 +27,13 @@ All biomes occupy a single contiguous island with the Hub Village acting as the 
   - **"Resonant Bulwark" (Kommo-o analogue):** Guards frozen fjord chokepoints with cascading scale shields that demand stun management.
   - **"Glacier Reaver" (Baxcalibur analogue):** Stalks permafrost valleys, layering ice walls that set up devastating shatter bursts.
 - **Legendary Tier:** Climactic encounters against legendary analogues such as a distortion dragon inspired by Giratina, complete with multi-phase arenas and cinematic intros.
-  - **Sanctuary Locales:** Each legendary roams an iconic biome that informs its tactics and loot, encouraging targeted prep work before the hunt.
-    - **Rayquaza — Skyrift Pinnacle:** A chain of floating isles battered by jetstream gales and lightning storms that force aerial grapples and glider mastery.
-    - **Giratina — Distortion Catacombs:** Warped caverns accessible only through hidden rifts that flicker across the frontier; approach one and Giratina tears fully into view amid gravity wells, phasing walls, and shadow geysers that echo its reality-bending strikes.
-    - **Regigigas — Titan's Steppe:** Ancient terraces and stone monoliths that trigger seismic pulses, rewarding careful spacing during its colossal charges.
-    - **Palkia & Dialga — Temporal Confluence:** Separate pocket dimensions connected by secret rifts; once hunters draw near, the twin blades manifest in mirrored arenas that lurch between tidal basins and crystalline clockwork as they bend time and space.
-    - **Koraidon — Primal Cradle:** A lush mesa biome with sprint lanes, vine launchers, and territorial ambush predators stirred up by Koraidon's roars.
-    - **Kyurem/Reshiram/Zekrom — Elemental Crucible:** A tri-spired caldera cycling between permafrost, magma vents, and storm fronts as the fused dragon swaps elemental rails.
+  - **Biome Integration:** Instead of isolated sanctuaries, each legendary stakes a claim within one of the existing biomes, reshaping familiar terrain and loot tables rather than introducing bespoke regions.
+    - **Rayquaza — Skyrift Archipelago:** Jetstream gales and lightning storms whip across the floating isles, forcing aerial grapples and glider mastery within the same updraft networks used by local apex fliers.
+    - **Giratina — Distortion Wilds & Catacombs:** Hidden rifts in the warped wilderness draw Giratina fully into view amid gravity wells, phasing walls, and shadow geysers that echo its reality-bending strikes.
+    - **Regigigas — Titan's Steppe & Quake Expanse:** Ancient terraces and stone monoliths trigger seismic pulses, rewarding careful spacing during its colossal charges while sharing routes with other steppe titans.
+    - **Palkia & Dialga — Coastal Shoals & Stormbelt Cliffs:** Tidal basins and cliffside storms lurch between temporal distortions as the twin blades bend the sea lanes that already host apex aquatic hunts.
+    - **Koraidon — Mesa Frontier & Ancient Grove:** Sprint lanes, vine launchers, and territorial ambush predators in the mesa heartland react to Koraidon's roars, turning a known traversal zone into a primal gauntlet.
+    - **Kyurem/Reshiram/Zekrom — Frozen Wilds & Glacier Lakes:** Permafrost valleys and glacial shelves cycle between ice, flame, and thunder phases as the fused dragon swaps elemental rails atop existing frozen arenas.
 - **Variant System:**
   - **Alpha Hunts:** Mid-tier escalations featuring expanded move sets, tougher break thresholds, and rare augment materials. Every creature in the biome roster supports an Alpha contract once hunters prove mastery over its base encounter.
   - **Shiny Hunts:** Prestige challenges with remixed arenas, exclusive cosmetics, and ultra-rare crafting cores.
@@ -94,16 +94,14 @@ All biomes occupy a single contiguous island with the Hub Village acting as the 
 Every hunt listed below—including early contracts, Apex anomalies, and legendary showdowns—offers an Alpha variant that unlocks after clearing the base encounter.
 - **Temple Ruins & Subterranean Ramparts:** Early Hunts – “Aegis Colossus”; Apex Wild Hunts – “Sentinel Rampardos”, “Ironhide Bastiodon”; Legendary Contracts – _None yet_.
 - **Distortion Wilds & Catacombs:** Early Hunts – “Burrowjaw Leviathan”; Apex Wild Hunts – “Riftborne Scolipede”, “Venomspire Dragapult”; Legendary Contracts – “Giratina”.
-- **Volcanic Belt & Obsidian Heights:** Early Hunts – “Ember Cyclone”; Apex Wild Hunts – “Magma Arcanine”, “Cataclysm Camerupt”, “Cindershroud Torkoal”, “Pyroclast Turtonator”, “Forge Duraludon”, “Catacomb Steelix”; Legendary Contracts – _See Elemental Crucible_.
-- **Frozen Wilds & Glacier Lakes:** Early Hunts – “Resonant Bulwark”, “Glacier Reaver”; Apex Wild Hunts – “Glacier Frosmoth”, “Avalanche Avalugg”, “Frostmaw Walrein”, “Frostquake Mamoswine”, “Rimeshell Lapras”; Legendary Contracts – _See Elemental Crucible_.
+- **Volcanic Belt & Obsidian Heights:** Early Hunts – “Ember Cyclone”; Apex Wild Hunts – “Magma Arcanine”, “Cataclysm Camerupt”, “Cindershroud Torkoal”, “Pyroclast Turtonator”, “Forge Duraludon”, “Catacomb Steelix”; Legendary Contracts – _None yet_.
+- **Frozen Wilds & Glacier Lakes:** Early Hunts – “Resonant Bulwark”, “Glacier Reaver”; Apex Wild Hunts – “Glacier Frosmoth”, “Avalanche Avalugg”, “Frostmaw Walrein”, “Frostquake Mamoswine”, “Rimeshell Lapras”; Legendary Contracts – “Kyurem/Reshiram/Zekrom”.
 - **Bioluminescent Caverns & Luminous Depths:** Early Hunts – “Iron Atlas”; Apex Wild Hunts – “Crystal Noivern”, “Abyssal Dragalge”, “Tempest Eelektross”; Legendary Contracts – _None yet_.
 - **Skyrift Archipelago:** Early Hunts – “Tempest Warden”; Apex Wild Hunts – “Tempest Staraptor”, “Gale Talonflame”, “Cyclone Tropius”, “Skyrend Aerodactyl”; Legendary Contracts – “Rayquaza”.
 - **Mesa Frontier & Ancient Grove:** Early Hunts – _None yet_ (unlocked via higher ranks); Apex Wild Hunts – “Stampede Donphan”, “Quakehoof Mudsdale”, “Thornbound Torterra”, “Blightshell Forretress”; Legendary Contracts – “Koraidon”.
-- **Coastal Shoals & Stormbelt Cliffs:** Early Hunts – _None yet_; Apex Wild Hunts – “Tidal Gyarados”, “Seafang Carracosta”, “Tidal Kingdra”, “Maelstrom Sharpedo”, “Gloomtide Tentacruel”, “Thunderhead Luxray”, “Stormcore Vikavolt”; Legendary Contracts – _See Temporal Confluence_.
+- **Coastal Shoals & Stormbelt Cliffs:** Early Hunts – _None yet_; Apex Wild Hunts – “Tidal Gyarados”, “Seafang Carracosta”, “Tidal Kingdra”, “Maelstrom Sharpedo”, “Gloomtide Tentacruel”, “Thunderhead Luxray”, “Stormcore Vikavolt”; Legendary Contracts – “Palkia & Dialga”.
 - **Twilight Marshlands & Toxic Fens:** Early Hunts – “Void Howler”; Apex Wild Hunts – “Bogshade Goodra”, “Bog Tyranitar”, “Quakegorge Hippowdon”; Legendary Contracts – _None yet_.
 - **Titan’s Steppe & Quake Expanse:** Early Hunts – _None yet_; Apex Wild Hunts – “Bedrock Gigalith”, “Tremor Krookodile”, “Razorcoil Sandaconda”, “Shardback Tyrantrum”; Legendary Contracts – “Regigigas”.
-- **Elemental Crucible:** Early Hunts – _None yet_; Apex Wild Hunts – _None yet_ (reserved for live ops); Legendary Contracts – “Kyurem/Reshiram/Zekrom”.
-- **Temporal Confluence:** Early Hunts – _None yet_; Apex Wild Hunts – _None yet_; Legendary Contracts – “Palkia & Dialga”.
 
 ### Combat & Mechanics
 - **Action Focus:** Lock-on targeting, stamina-based dodging, weapon-specific combos, and part-breaking to disable monster abilities.
